@@ -280,3 +280,8 @@ Planned extensions:
 ## License
 
 GPL-3.0, unless stated otherwise by the surrounding BASE3 project setup.
+
+## Documentation
+
+- [Frequently Asked Questions](docs/faq.md)
+- [Privacy and data processing](PRIVACY.md)
