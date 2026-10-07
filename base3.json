@@ -1,0 +1,21 @@
+{
+	"manifestVersion": 1,
+	"name": "ContentForgeIlias",
+	"namespace": "ContentForgeIlias",
+	"version": "4.1.0",
+	"description": "ILIAS-specific export targets and placement integration for ContentForge.",
+	"license": "GPL-3.0-or-later",
+	"maintainers": [
+		{
+			"name": "Daniel Dahme",
+			"url": "https://www.base3.de",
+			"email": "info@base3.de"
+		}
+	],
+	"repository": "https://github.com/ddbase3/ContentForgeIlias",
+	"dependencies": {
+		"Base3Framework": ">=4.10.0",
+		"Base3Ilias": ">=4.21.0",
+		"ContentForge": ">=4.2.0"
+	}
+}
